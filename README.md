@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![C-Phasing docs](https://wangyibin.github.io/CPhasing)
+
 <!--
 **wangyibin/wangyibin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
