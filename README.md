@@ -1,10 +1,14 @@
-### Hi there 👋
-
-[C-Phasing docs](https://wangyibin.github.io/CPhasing)
-
+### Hi😄
+🌱I am now focused on resolving the phasing of complex polyploid genomes🌱:
+<div align="left">
+<a href="https://github.com/wangyibin/CPhasing">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=wangyibin&repo=CPhasing" />
+</a> 
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangyibin&hide=jupyter%20notebook&layout=compact" />
+</div>
 <!--
 **wangyibin/wangyibin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[C-Phasing docs](https://wangyibin.github.io/CPhasing)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
